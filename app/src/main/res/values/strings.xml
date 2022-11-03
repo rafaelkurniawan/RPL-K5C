@@ -28,6 +28,15 @@
     <string name="email_2">rafaeelalbyy@gmail.com</string>
     <string name="alamat_2">Sumber, Banjarsari, Surakarta</string>
     <string name="button_list2">List Anggota</string>
+    
+    
+    //Anggota3
+    <string name="foto_renda"></string>
+    <string name="nama_3">Renda Gezag Pawestri</string>
+    <string name="nim_3">V3421079</string>
+    <string name="email_3">renda.pawestrig@gmail.com</string>
+    <string name="alamat_3">Sendang, Karanglor, Manyaran, Wonogiri</string>
+    <string name="button_list3">List Anggota</string>
 
 
 </resources>
