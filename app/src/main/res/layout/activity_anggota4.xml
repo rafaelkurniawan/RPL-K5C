@@ -4,93 +4,101 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_margin="20dp"
     android:orientation="vertical"
-    tools:context=".Anggota4">
+    tools:context=".anggota4">
 
-    <ImageView
-        android:id="@+id/foto_reyhan"
+    <ImageButton
+        android:id="@+id/foto4"
         android:layout_width="match_parent"
-        android:layout_height="300dp"
-        android:layout_marginTop="10dp"
-        android:contentDescription="@string/foto_rafael"
-        app:srcCompat="@drawable/fotoreyhan" />
-
-    <View
-        android:layout_width="300dp"
-        android:layout_height="5dp"
-        android:layout_gravity="center"
-        android:layout_marginTop="9dp"
-        android:background="?android:attr/listDivider" />
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#00FFFFFF"
+        app:srcCompat="@drawable/reyhan" />
 
     <TextView
-        android:id="@+id/nama_4"
+        android:id="@+id/nama"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="15dp"
-        android:gravity="center"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="2dp"
+        android:text="@string/nama_i"
+        android:textColor="#006CC1"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/nama_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:text="@string/nama_4"
         android:textColor="#000000"
-        android:textSize="22sp"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/nim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="2dp"
+        android:text="@string/nim_i"
+        android:textColor="#006CC1"
+        android:textSize="16sp"
         android:textStyle="bold" />
 
-    <EditText
-        android:id="@+id/nim_4"
-        android:layout_width="279dp"
+    <TextView
+        android:id="@+id/nim_item"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="40dp"
-        android:layout_marginBottom="10dp"
-        android:autofillHints="@string/nama_4"
-        android:ems="10"
-        android:gravity="center"
-        android:hint="@string/nama_4"
-        android:importantForAutofill="no"
-        android:inputType="textPersonName"
-        android:minHeight="48dp"
         android:text="@string/nim_4"
-        android:textSize="24sp"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="2dp"
+        android:text="@string/email_i"
+        android:textColor="#006CC1"
+        android:textSize="16sp"
         android:textStyle="bold" />
 
-    <EditText
-        android:id="@+id/email_4"
-        android:layout_width="315dp"
+    <TextView
+        android:id="@+id/email_item"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="7dp"
-        android:autofillHints="@string/email_4"
-        android:ems="10"
-        android:foregroundGravity="center"
-        android:gravity="center"
-        android:hint="@string/email_4"
-        android:inputType="textEmailAddress"
-        android:minHeight="48dp"
         android:text="@string/email_4"
         android:textColor="#000000"
-        android:textSize="20sp"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/alamat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="2dp"
+        android:text="@string/alamat_i"
+        android:textColor="#006CC1"
+        android:textSize="16sp"
         android:textStyle="bold" />
 
-    <EditText
-        android:id="@+id/alamat_4"
-        android:layout_width="391dp"
+    <TextView
+        android:id="@+id/alamat_item"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="30dp"
-        android:autofillHints="@string/alamat_4"
-        android:ems="10"
-        android:gravity="center"
-        android:hint="@string/alamat_4"
-        android:importantForAutofill="no"
-        android:inputType="textPersonName"
-        android:minHeight="48dp"
         android:text="@string/alamat_4"
-        android:textSize="20sp"
-        android:textStyle="bold" />
+        android:textColor="#000000"
+        android:textSize="16sp" />
 
     <Button
-        android:id="@+id/list5"
-        android:layout_width="150dp"
+        android:id="@+id/kembali4"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="125dp"
-        android:layout_marginTop="40dp"
-        android:text="@string/button_list4" />
+        android:layout_marginTop="60dp"
+        android:backgroundTint="#0165B5"
+        android:text="@string/kembali"
+        android:textAllCaps="false"
+        android:textSize="16sp" />
 </LinearLayout>
