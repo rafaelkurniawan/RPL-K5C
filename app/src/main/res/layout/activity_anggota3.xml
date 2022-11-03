@@ -33,6 +33,7 @@
         android:textSize="22sp"
         android:textStyle="bold" />
 
+   
     <EditText
         android:id="@+id/nim_5"
         android:layout_width="279dp"
