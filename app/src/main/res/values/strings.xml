@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RPL</string>
+    <string name="logo_uns"></string>
+    <string name="logo"></string>
+    //DASHBOARD
+    <string name="nama_kelompok">Kelompok RPL 5C</string>
+    <string name="anggota_kelompok1">(V3421067) Nabila Zarima</string>
+    <string name="anggota_kelompok2">(V3421076) Rafael Kurniawan AP</string>
+    <string name="anggota_kelompok3">(V3421079) Renda Gezag Pawestri</string>
+    <string name="anggota_kelompok4">(V3421081) Reyhan Naufal H</string>
+    <string name="anggota_kelompok5">(V3421095) Yusuf Ainurrofiq</string>
+    <string name="button_next">Next</string>
+    <string name="textview">TextView</string>
+
+    //ListAnggota
+    <string name="kelompok">Kelompok RPL 5C</string>
+    <string name="btn_1">Nabila Zarima</string>
+    <string name="btn_2">Rafael Kurniawan AP</string>
+    <string name="btn_3">Renda Gezag P</string>
+    <string name="btn_4">Reyhan Naufal H</string>
+    <string name="btn_5">Yusuf Ainurrofiq</string>
+
+
+    //Anggota2
+    <string name="foto_rafael"></string>
+    <string name="nama_2">Rafael Kurniawan Albyseptra Pratama</string>
+    <string name="nim_2">V3421076</string>
+    <string name="email_2">rafaeelalbyy@gmail.com</string>
+    <string name="alamat_2">Sumber, Banjarsari, Surakarta</string>
+    <string name="button_list2">List Anggota</string>
+
+
+</resources>

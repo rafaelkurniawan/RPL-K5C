@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\xml_activity_main_scene.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\xml\\activity_main_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\drawable_uns.png.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\drawable\\uns.png"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\drawable_gradientbackground.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\drawable\\gradientbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\layout_activity_anggota2.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\layout\\activity_anggota2.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\layout_activity_anggota4.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\layout\\activity_anggota4.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\drawable_fotoreyhan.png.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\drawable\\fotoreyhan.png"
+    },
+    {
+        "merged": "com.example.rpl.app-merged_res-29:/layout_activity_anggota3.xml.flat",
+        "source": "com.example.rpl.app-main-31:/layout/activity_anggota3.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\layout_activity_anggota1.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\layout\\activity_anggota1.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\drawable_fotonabila.jpg.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\drawable\\fotonabila.jpg"
+    },
+    {
+        "merged": "com.example.rpl.app-merged_res-29:/layout_activity_anggota5.xml.flat",
+        "source": "com.example.rpl.app-main-31:/layout/activity_anggota5.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\drawable_fotorafael.jpg.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\drawable\\fotorafael.jpg"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\layout_activity_anggota3.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\layout\\activity_anggota3.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\layout_activity_list_anggota.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\layout\\activity_list_anggota.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\font_alata.ttf.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\font\\alata.ttf"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rpl.app-merged_res-29:/layout_activity_anggota2.xml.flat",
+        "source": "com.example.rpl.app-main-31:/layout/activity_anggota2.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\layout_activity_splash_screen2.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\layout\\activity_splash_screen2.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\drawable_fotoyusuf.jpg.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\drawable\\fotoyusuf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\drawable_fotorenda.jpg.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\drawable\\fotorenda.jpg"
+    },
+    {
+        "merged": "com.example.rpl.app-merged_res-29:/layout_activity_anggota1.xml.flat",
+        "source": "com.example.rpl.app-main-31:/layout/activity_anggota1.xml"
+    },
+    {
+        "merged": "com.example.rpl.app-merged_res-29:/layout_activity_anggota4.xml.flat",
+        "source": "com.example.rpl.app-main-31:/layout/activity_anggota4.xml"
+    },
+    {
+        "merged": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-merged_res-29:\\layout_activity_anggota5.xml.flat",
+        "source": "C:\\Users\\My Computer\\.gradle\\daemon\\7.3.3\\com.example.rpl.app-main-31:\\layout\\activity_anggota5.xml"
+    }
+]
