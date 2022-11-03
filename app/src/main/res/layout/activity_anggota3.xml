@@ -86,11 +86,4 @@
         android:textSize="20sp"
         android:textStyle="bold" />
 
-    <Button
-        android:id="@+id/list5"
-        android:layout_width="150dp"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="125dp"
-        android:layout_marginTop="40dp"
-        android:text="@string/button_list3" />
 </LinearLayout>
