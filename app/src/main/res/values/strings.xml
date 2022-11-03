@@ -19,7 +19,14 @@
     <string name="btn_3">Renda Gezag P</string>
     <string name="btn_4">Reyhan Naufal H</string>
     <string name="btn_5">Yusuf Ainurrofiq</string>
-
+    
+    //Anggota1
+    <string name="foto_nabila"></string>
+    <string name="nama_1">Nabila Zarima</string>
+    <string name="nim_1">V3421067</string>
+    <string name="email_1">nabilazarima@gmail.com</string>
+    <string name="alamat_1">Mruwak, Dagangan, Madiun</string>
+    <string name="button_list1">List Anggota</string>
 
     //Anggota2
     <string name="foto_rafael"></string>
