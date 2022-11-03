@@ -56,6 +56,14 @@
     <string name="email_i">Email</string>
     <string name="alamat_i">Alamat</string>
     
+    //Anggota5
+    <string name="foto_yusuf"></string>
+    <string name="nama_5">Yusuf Ainurrofiq</string>
+    <string name="nim_5">V3421095</string>
+    <string name="email_5">ucupkemplink25@gmail.com</string>
+    <string name="alamat_5">Barukan, Semarang</string>
+    <string name="button_list5">List Anggota</string>
+    
     <string name="kembali">Kembali</string>
 
 </resources>
